@@ -1,6 +1,7 @@
 # HTML-Practice
 
-## Contact For College Project / Reporting / Document / Project Training @ heykyakaru@gmail.com
+## Hey if you want to complete your project and need help to complete it. Contact at given email id.
+## Contact For College Project / Project Report / Documentation / Project Training @ heykyakaru@gmail.com
 
 ## YouTube Videos and related Playlist Details which helps to better understand the code on heyKyaKaru channel
 
